@@ -1,0 +1,12 @@
+[submodule "Assignment-1"]
+	path = Assignment-1
+	url = https://github.com/Rana-KV/Appsec-Assignment-1.git
+[submodule "Assignment-2"]
+	path = Assignment-2
+	url = https://github.com/Rana-KV/Appsec-Assignment-2.git
+[submodule "Assignment-3"]
+	path = Assignment-3
+	url = https://github.com/Rana-KV/Appsec-Assignment-3.git
+[submodule "Assignment-4"]
+	path = Assignment-4
+	url = https://github.com/Rana-KV/Appsec-Assignment-4.git
